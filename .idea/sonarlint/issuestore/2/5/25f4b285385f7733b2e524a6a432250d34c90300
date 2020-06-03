@@ -1,0 +1,5 @@
+
+usquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "filter".(¶µˆ¾
+squid:UselessImportCheck"]Remove this unused import 'org.springframework.security.web.session.SessionManagementFilter'.(Ê›‰ä
+Gsquid:S1905"0Remove this unnecessary cast to "AuthorizedUrl".(÷¶øâ
+Gsquid:S1905"0Remove this unnecessary cast to "AuthorizedUrl".(÷¶øâ

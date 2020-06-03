@@ -1,0 +1,91 @@
+.main {
+    width: 1400px;
+  }
+  
+  .table {
+    background-color: green;
+    height: 650px;
+    width: 1200px;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 1em solid black;
+    padding-left: 10px;
+  }
+  
+  .board {
+    position: relative;
+    top: 40%;
+    left: 30%;
+  }
+  .card-small {
+    padding-left: 23px;
+    height: 80px;
+    width: 26px; /*70% of height*/
+    margin-right: 1px;
+    float: left;
+
+    size: 1%;
+   }
+  
+  .card-text {
+    margin: 0;
+    margin-top: 15%;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 0;
+  }
+  
+  .card-img {
+    text-align: center;
+    margin: 0;
+    font-size: 2em;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .black {
+    color: black;
+  }
+
+  .player {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 550px;
+  }
+
+  .player1 {
+    padding-top: 60px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 550px;
+  }
+
+  .player2 {
+    padding-top: 60px;
+    padding-right: 0;
+    padding-bottom: 60px;
+    padding-left: 0px;
+  }
+
+  .player3 {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 1100px;
+  }
+
+  .img.resize {
+    max-width:50%; /* you can use % */
+    height: auto;
+}
+
+.link {
+  color: #FFF;
+}
+.link:hover {
+   color: #00F
+}

@@ -1,0 +1,13 @@
+
+esquid:S2259,"BA "NullPointerException" could be thrown; "game" is nullable here.(Å¯úüÿÿÿÿ8øÈè™.
+esquid:S2259E"BA "NullPointerException" could be thrown; "game" is nullable here.(€¹Ê™ıÿÿÿÿ8øÈè™.
+asquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8øÈè™.
+ssquid:UselessImportCheck	"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8øÈè™.
+squid:UselessImportCheck"ORemove this unused import 'com.fasterxml.jackson.core.JsonProcessingException'.(ßÔïÇûÿÿÿÿ8øÈè™.
+{squid:UselessImportCheck"PRemove this unused import 'org.springframework.web.bind.annotation.CrossOrigin'.(º´Ñ†8øÈè™.
+squid:UselessImportCheck"TRemove this unused import 'org.springframework.messaging.handler.annotation.SendTo'.(÷æéñ8øÈè™.
+psquid:UselessImportCheck"ERemove this unused import 'org.apache.logging.log4j.message.Message'.(äÍÙ¼8øÈè™.
+tsquid:UselessImportCheck"DRemove this unused import 'server.responsemodels.WebSocketResponse'.(ÎÚÑîøÿÿÿÿ8øÈè™.
+`squid:HiddenFieldCheckb"8Rename "game" which hides the field declared at line 36.(§Øü[8øÈè™.
+nsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(„Ã¯ôøÿÿÿÿ8øÈè™.
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8øÈè™.

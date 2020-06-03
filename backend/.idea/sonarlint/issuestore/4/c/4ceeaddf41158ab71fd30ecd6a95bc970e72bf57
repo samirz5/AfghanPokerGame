@@ -1,0 +1,4 @@
+
+|squid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(›ֱׂ־ÿÿÿÿÿ8›יֵ§ש-
+bsquid:S2583"DChange this condition so that it does not always evaluate to "false"(²¶ַ±8›יֵ§ש-
+hsquid:S1764"JCorrect one of the identical sub-expressions on both sides of operator ">"(²¶ַ±8›יֵ§ש-

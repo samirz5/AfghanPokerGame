@@ -1,0 +1,12 @@
+
+?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+nsquid:S1450"RRemove the "url" field and declare it as a local variable in the relevant methods.(¿¿Ïòûÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚óŞ‹üÿÿÿÿ
+ssquid:S1450"WRemove the "userName" field and declare it as a local variable in the relevant methods.(³–ÒÆıÿÿÿÿ
+?squid:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:S1118
+":Add a private constructor to hide the implicit public one.(ëˆ­ıÿÿÿÿ
+nsquid:S1450"WRemove the "password" field and declare it as a local variable in the relevant methods.(òŸù

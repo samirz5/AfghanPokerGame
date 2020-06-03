@@ -1,0 +1,4 @@
+
+Lsquid:S1905u")Remove this unnecessary cast to "Player".(¤Î…şÿÿÿÿ8€®«ù-
+Psquid:S1068"-Remove this unused "roomStake" private field.(õı¥æøÿÿÿÿ8ë»Í§ù-
+ˆsquid:S4165"jRemove this useless assignment; "roomSettings" already holds the assigned value along all execution paths.(š‘8İğ«…ú-

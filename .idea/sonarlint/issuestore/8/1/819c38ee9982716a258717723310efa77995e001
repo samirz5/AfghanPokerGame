@@ -1,0 +1,5 @@
+
+Fsquid:S1905”")Remove this unnecessary cast to "Player".(¤Î…þÿÿÿÿ
+Zsquid:S3655n"7Call "Optional#isPresent()" before accessing the value.(»Ï²úÿÿÿÿ8Ä‡±üû-
+\squid:S11552">Use isEmpty() to check whether the collection is empty or not.(‡øó€8“ÔŒìû-
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(—¨Üåÿÿÿÿÿ8ÉË¦ìû-

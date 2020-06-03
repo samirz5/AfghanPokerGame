@@ -1,0 +1,10 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰àä¾üÿÿÿÿ
+?squid:S1148~"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Bsquid:S1168i"+Return an empty collection instead of null.(¥¹ï
+@squid:S1148†"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Xsquid:UselessImportCheck"5Remove this unused import 'org.apache.catalina.User'.(›ân
+?squid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
